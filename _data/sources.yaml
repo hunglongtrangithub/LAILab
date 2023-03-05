@@ -61,4 +61,14 @@
   type: paper
   date: 2017-11-1
   image: images/Inductive identification of functional status information-0000.jpg
-  
+
+- id: doi:10.5772/22016
+  type: book
+  date: 2011-9-15
+  image: Mining Host-Pathogen Interactions.jpg
+
+- id: doi:10.32469/10355/49119
+  type: book
+  date: 
+  image: images/Graphical Evolving Transformation System Machine.jpg
+
