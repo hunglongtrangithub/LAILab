@@ -46,3 +46,19 @@
   type: paper
   date: 2021-12-1
   image: images/A high-throughput, online tool-0000.jpg
+
+- id: doi:10.1109/chase52844.2021.00031
+  type: paper
+  date: 2021-12-1
+  image: images/Computer-assisted medical billing information extraction-0000.jpg
+
+- id: doi:10.1007/978-3-030-82199-9_1
+  type: paper
+  date: 2021-8-7
+  image: images/LexDivPara A Measure of Paraphrase Quality with Integrated Sentential Lexical Complexity.jpg
+
+- id: doi:10.1109/bibm.2017.8218042
+  type: paper
+  date: 2017-11-1
+  image: images/Inductive identification of functional status information-0000.jpg
+  
