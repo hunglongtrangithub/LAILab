@@ -26,7 +26,7 @@ The Language and Intelligence Laboratory (LAILab) at the Machine Learning Depart
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ To accomplish multidimensional and multidisciplinary goals, we transfer and cust
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -79,7 +79,7 @@ Our work involves:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
