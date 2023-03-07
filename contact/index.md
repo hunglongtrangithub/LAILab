@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="thanh.thieu@moffitt.org"
+  link="thanh.thieu@moffitt.org"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="external"
+  text="open positions"
+  link="https://lab.moffitt.org/thieu/open-positions/"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://goo.gl/maps/GUwhbapFWJH7aA5LA)"
 %}
 
 {% include section.html %}
