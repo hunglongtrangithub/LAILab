@@ -19,7 +19,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 %}
 {%
   include button.html
-  type="external"
+  type="website"
   text="open positions"
   link="https://lab.moffitt.org/thieu/open-positions/"
 %}
@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://goo.gl/maps/GUwhbapFWJH7aA5LA)"
+  link="https://goo.gl/maps/GUwhbapFWJH7aA5LA"
 %}
 
 {% include section.html %}
