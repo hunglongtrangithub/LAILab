@@ -32,7 +32,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 
 {% include section.html %}
 
-{% capture col1 %}
+<!-- {% capture col1 %}
 
 {%
   include figure.html
@@ -50,7 +50,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
   caption="Lorem ipsum"
 %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 {% include cols.html col1=col1 col2=col2 %}
 
