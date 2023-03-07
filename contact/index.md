@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 {%
   include button.html
   type="website"
-  text="open positions"
+  text="Open positions"
   link="https://lab.moffitt.org/thieu/open-positions/"
 %}
 {%
@@ -30,9 +30,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
   link="https://goo.gl/maps/GUwhbapFWJH7aA5LA"
 %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
-<!-- {% capture col1 %}
+{% capture col1 %}
 
 {%
   include figure.html
@@ -50,28 +50,28 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
   caption="Lorem ipsum"
 %}
 
-{% endcapture %} -->
+{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-<!-- Lorem ipsum dolor sit amet  
+Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
-sed do eiusmod tempor -->
+sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
-<!-- Lorem ipsum dolor sit amet  
+Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
-sed do eiusmod tempor -->
+sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col3 %}
-<!-- Lorem ipsum dolor sit amet  
+Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
-sed do eiusmod tempor -->
+sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
