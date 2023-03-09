@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="PHILM2Web: A high-throughput database of macromolecular host\u2013pathogen\
+    \ interactions on the Web" style="rich" %}
 
 {% include section.html %}
 
