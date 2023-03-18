@@ -205,3 +205,11 @@
   link: https://www.academia.edu/32967524/Characterizing_the_Language_of_Functioning_A_Corpus_Analysis_Illustrating_How_Human_Function_is_Described_in_Clinical_Text
   plugin: sources.py
   file: sources.yaml
+- title: Mining Host-Pathogen Interaction from Biomedical Literature
+  authors:
+  - Thanh Thieu
+  - Dmitry Korkin
+  publisher: University of Missouri - Columbia, USA
+  date: '2011-01-01'
+  plugin: sources.py
+  file: sources.yaml
