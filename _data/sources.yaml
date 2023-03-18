@@ -60,6 +60,7 @@
   publisher: Austin Biometrics and Biostatistics
   date: 2017-1-1
   link: https://austinpublishinggroup.com/biometrics/fulltext/biometrics-v4-id1033.pdf
+  image: images/Phase II basket group sequential clinical trial.jpg
 
 - title: "Characterizing the Language of Functioning: A Corpus Analysis Illustrating How Human Function is Described in Clinical Text"
   authors:
@@ -74,10 +75,3 @@
   publisher: AMIA Joint Summits on Translational Science, San Francisco, CA
   date: 2017-1-1
   link: https://www.academia.edu/32967524/Characterizing_the_Language_of_Functioning_A_Corpus_Analysis_Illustrating_How_Human_Function_is_Described_in_Clinical_Text
-
-- title: Mining Host-Pathogen Interaction from Biomedical Literature
-  authors:
-    - Thanh Thieu
-    - Dmitry Korkin
-  publisher: University of Missouri - Columbia, USA
-  date: 2011-1-1
