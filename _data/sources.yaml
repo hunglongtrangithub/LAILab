@@ -46,6 +46,9 @@
 - id: doi:10.32469/10355/49119
   type: book
   image: images/Graphical Evolving Transformation System Machine.jpg
+  authors:
+    - Thanh Thieu
+    - Dmitry Korkin
 
 - title: Phase II basket group sequential clinical trial with binary responses
   authors:
