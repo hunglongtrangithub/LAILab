@@ -1,7 +1,24 @@
+- id: doi:10.1371/journal.pcbi.1007128
+  type: paper
+  date: 2020-12-4
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
+
 - id: doi:10.1093/database/baac042
   type: paper
-  date: 2022-1-1
-  image: images/Mining Host-Pathogen Interactions from Biomedical Literature.jpg
+  date: 2022-6-30
+  image: images/  PHILM2Web- A high-throughput database of macromolecular host-pathogen interactions on the Web.jpeg
   
 - id: doi:10.1016/j.ijmedinf.2020.104351
   type: paper
@@ -35,14 +52,55 @@
 
 - id: doi:10.1109/bibm.2017.8218042
   type: paper
-  date: 2017-11-1
+  date: 2017-11-13
   image: images/Inductive identification of functional status information-0000.jpg
   
 - id: doi:10.5772/22016
   type: book
   date: 2011-9-15
-  image: Mining Host-Pathogen Interactions.jpg
+  image: images/Mining Host-Pathogen Interactions.jpg
 
 - id: doi:10.32469/10355/49119
   type: book
   image: images/Graphical Evolving Transformation System Machine.jpg
+  authors:
+  - Thanh Thieu
+  - Dmitry Korkin
+
+- id: url:https://austinpublishinggroup.com/biometrics/fulltext/biometrics-v4-id1033.pdf
+  type: paper
+  date: 2017-2-1
+  image: images/Phase II basket group sequential clinical trial.jpg
+  title: Phase II basket group sequential clinical trial with binary responses
+  authors:
+    - Wenxian Zhou
+    - Ao Yuan
+    - Thanh Thieu
+    - Hong-Bin Fang
+    - Ming T. Tan
+  publisher: Austin Biometrics and Biostatistics
+  
+- id: url:https://www.academia.edu/32967524/Characterizing_the_Language_of_Functioning_A_Corpus_Analysis_Illustrating_How_Human_Function_is_Described_in_Clinical_Text
+  type: paper
+  date: 2017-1-1
+  title: "Characterizing the Language of Functioning: A Corpus Analysis Illustrating How Human Function is Described in Clinical Text"
+  authors:
+    - Denis Newman-Griffis
+    - Thanh Thieu
+    - Chunxiao Zhou
+    - Diane Brandt
+    - Jonathan C. Maldonado
+    - Julia Porcino
+    - Albert M. Lai
+    - Leighton Chan
+  publisher: AMIA Joint Summits on Translational Science, San Francisco, CA
+
+- id: url:https://doi.org/10.1093/bioinformatics/bts042
+  type: book
+  date: 2012-1-27
+  image: images/Mining Host-Pathogen Interactions from Biomedical Literature.jpg
+  title: Mining Host-Pathogen Interaction from Biomedical Literature
+  authors: 
+  - Thanh Thieu
+  - Dmitry Korkin
+  publisher: University of Missouri - Columbia, USA
