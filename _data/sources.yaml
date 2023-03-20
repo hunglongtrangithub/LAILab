@@ -18,7 +18,7 @@
 - id: doi:10.1093/database/baac042
   type: paper
   date: 2022-6-30
-  image: images/  PHILM2Web- A high-throughput database of macromolecular host-pathogen interactions on the Web.jpeg
+  image: images/PHILM2Web- A high-throughput database of macromolecular host-pathogen interactions on the Web.jpeg
   
 - id: doi:10.1016/j.ijmedinf.2020.104351
   type: paper
@@ -104,3 +104,8 @@
   - Thanh Thieu
   - Dmitry Korkin
   publisher: University of Missouri - Columbia, USA
+
+- id: doi:10.1016/j.smhl.2022.100343
+  type: paper
+  date: 2022-9-27
+  image: images/Diabetic retinopathy prediction.jpg
