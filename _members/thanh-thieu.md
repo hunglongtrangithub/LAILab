@@ -7,7 +7,7 @@ aliases:
   - T. Thieu
   - T Thieu
 links:
-  github: hunglongtrangithub
+  github: LanguageAndIntelligence
   email: thanh.thieu@moffitt.org
   orcid: 0000-0003-2850-0560
 ---
