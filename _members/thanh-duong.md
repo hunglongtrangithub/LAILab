@@ -8,7 +8,7 @@ aliases:
   - T Duong
 links:
   github: hunglongtrangithub
-  email: hung.tran@moffitt.org
+  email: thanh.duong@moffitt.org
   orcid: 0000-0003-2850-0560
 ---
 
