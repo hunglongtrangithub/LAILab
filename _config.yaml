@@ -4,13 +4,13 @@ description: A multidisciplinary research group that translates advances in natu
 header: images/background.jpg
 footer: images/background.jpg
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email:
+  orcid:
+  google-scholar:
+  github:
+  twitter:
+  instagram:
+  youtube:
 defaults:
   - scope:
       path: ""
@@ -46,8 +46,8 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@hunglongtrangithub.com
-github: hunglongtrangithub
-twitter: hunglongtrangithub
-instagram: hunglongtrangithub
-youtube: hunglongtrangithub
+email: 
+github: 
+twitter: 
+instagram: 
+youtube: 
