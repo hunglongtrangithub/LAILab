@@ -1,11 +1,11 @@
 ---
-title: Projects
+title: Software & Tools
 nav:
   order: 2
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Software & Tools
 
 {% include tags.html tags="publication, resource, website" %}
 

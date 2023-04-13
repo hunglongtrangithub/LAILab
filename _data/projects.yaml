@@ -1,0 +1,22 @@
+- title: PHILM2Web
+  subtitle:
+  group: featured
+  image: images/photo.jpg
+  link: https://lailab.info/pages/PHILM/index.html
+  description: A database of host-pathong protein-protein interaction across multiple pathogenic organisms.
+  repo: 
+  tags:
+    - publication
+    - resource
+    - website
+
+- title: INCEpTION
+  subtitle: 
+  group: featured
+  image: images/photo.jpg
+  link: http://lailab.info:8080/login.html
+  description: Annotation portal for human coders to label named entities, relations, and linking codes.
+  repo: 
+  tags:
+    - resource
+    - website
